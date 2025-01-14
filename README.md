@@ -6,7 +6,7 @@
 
 # 🌱 Skills
 
-<strong>Language</strong>
+<strong>🌐 Language</strong>
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=&logo=Dart&logoColor=white"/>
@@ -15,16 +15,16 @@
 </div>
 <br>
 
-<strong>Framework</strong>
+<strong>🛠️ Framework</strong>
 <div>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=&logo=Flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=&logo=FastAPI&logoColor=white"/>
   <img src="https://img.shields.io/badge/HuggingFace-FCC624?style=&logo=HuggingFace&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SwiftUI-1C7DF0?style="/>
+  <img src="https://img.shields.io/badge/SwiftUI-1C7DF0?style=&logo=Swift&logoColor=white"/>
 </div>
 <br>
 
-<strong>Database</strong>
+<strong>🗄️ Database</strong>
 <div>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=&logo=SQLite&logoColor=white"/>
@@ -33,14 +33,14 @@
 </div>
 <br>
 
-<strong>IDE</strong>
+<strong>🖥️ IDE</strong>
 <div>
   <img src="https://img.shields.io/badge/VsCode-007ACC?style=&logo=Visual Studio Code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=&logo=Xcode&logoColor=white"/>
 </div>
 <br>
 
-<strong>Tools</strong>
+<strong>🔧 Tools</strong>
 <div>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=&logo=Docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=&logo=Jenkins&logoColor=white"/> 
