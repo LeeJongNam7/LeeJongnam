@@ -1,5 +1,5 @@
 # LeeJongnam
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Jieun&fontAlign=74&fontAlignY=40&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Jongnam&fontAlign=74&fontAlignY=40&color=gradient)
 
 <a href="https://www.instagram.com/deabaki_papa"><img src="https://img.shields.io/badge/Instagram-E5426E?style=&logo=Instagram&logoColor=white"/></a>
 <a href="mailto:jongnam250426@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=&logo=Gmail&logoColor=white"/></a>
